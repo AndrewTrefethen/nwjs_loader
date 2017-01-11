@@ -1,0 +1,25 @@
+{
+  "name": "nwjs_loader",
+  "version": "1.0.0",
+  "description": "Give methods for getting the path to different application resources in NWjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewTrefethen/nwjs_loader.git"
+  },
+  "keywords": [
+    "nwjs",
+    "loader",
+    "node-webkit",
+    "node"
+  ],
+  "author": "Andrew Trefethen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewTrefethen/nwjs_loader/issues"
+  },
+  "homepage": "https://github.com/AndrewTrefethen/nwjs_loader#readme"
+}
